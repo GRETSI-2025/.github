@@ -1,4 +1,4 @@
-# GRETSI'25 - Label Reproductible
+# Label Reproductible
 
 Le GRETSI 2025 est la première édition de cette conférence à proposer le **Label Reproductible**.
 
