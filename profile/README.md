@@ -21,7 +21,7 @@ Fork : https://github.com/GRETSI-2025/GRETSI25_Label-Or_Evaluation-theorique-de-
 
 - Rapporteur(s) : Thomas MOREAU
 - Papier associé : _"Évaluation théorique de performance d’un système à antennes distribuées sur canaux multi-trajets partiellement bloqués"_ - Thibaut ROLLAND, Matthieu CRUSSIÈRE, Marie LE BOT
-- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/5) | 📝 [_Voir le rapport_](rapports/Rapport_issue_05)
+- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/5) | 📝 [_Voir le rapport_](https://github.com/GRETSI-2025/Label-Reproductible/blob/main/rapports/Rapport_issue_05/README.md)
 
 <hr>
 
@@ -29,7 +29,7 @@ Fork : https://github.com/GRETSI-2025/GRETSI25_Label-Or_Angular-Estimation-with-
 
 - Rapporteur(s) : Matthieu PUIGT
 - Papier associé : _"Angular Estimation with Leaky Wave Antennas: Toward a Low-Tech Radar?"_ - Benjamin GIGLEUX, Valentin LOURENCO MARTINS, Aurélie DORLÉ, Sara EL BOUCH
-- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/10) | 📝 [_Voir le rapport_](rapports/Rapport_issue_10)
+- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/10) | 📝 [_Voir le rapport_](https://github.com/GRETSI-2025/Label-Reproductible/blob/main/rapports/Rapport_issue_10/README.md)
 
 <hr>
 
@@ -37,7 +37,7 @@ Fork : https://github.com/GRETSI-2025/GRETSI25_Label-Or_En-quete-de-precision-Un
 
 - Rapporteur(s) : Éric DEBREUVE
 - Papier associé : _"En quête de précision : Un benchmark open-source et un solveur polyvalent pour le Graphical Lasso"_ - Can POULIQUEN, Paulo GONÇALVES, Titouan VAYER, Mathurin MASSIAS
-- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/18) | 📝 [_Voir le rapport_](rapports/Rapport_issue_18)
+- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/18) | 📝 [_Voir le rapport_](https://github.com/GRETSI-2025/Label-Reproductible/blob/main/rapports/Rapport_issue_18/README.md)
 
 <hr>
 
@@ -45,7 +45,7 @@ Fork : https://github.com/GRETSI-2025/GRETSI25_Label-Or_On-the-Impact-of-Data-Co
 
 - Rapporteur(s) : Mathieu FAUVEL
 - Papier associé : _"On the Impact of Data Collection Strategies in Streaming Federated Learning with Markovian Data"_ - Tan-Khiem HUYNH, Malcolm EGAN, Giovanni NEGLIA, Jean-Marie GORCE
-- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/19) | 📝 [_Voir le rapport_](rapports/Rapport_issue_19)
+- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/19) | 📝 [_Voir le rapport_](https://github.com/GRETSI-2025/Label-Reproductible/blob/main/rapports/Rapport_issue_19/README.md)
 
 <hr>
 
@@ -53,7 +53,7 @@ Fork : https://github.com/GRETSI-2025/GRETSI25_Label-Or_Evaluation-des-generateu
 
 - Rapporteur(s) : Jérémy COHEN
 - Papier associé : _"Évaluation des générateurs d’images à partir de peu d’exemples : calculer le FID avec 10 fois moins d’images, c’est possible"_ - Nicolas AUDEBERT, Arnaud BRELOY
-- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/23) | 📝 [_Voir le rapport_](rapports/Rapport_issue_23)
+- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/23) | 📝 [_Voir le rapport_](https://github.com/GRETSI-2025/Label-Reproductible/blob/main/rapports/Rapport_issue_23/README.md)
 
 <hr>
 
@@ -61,7 +61,7 @@ Fork : https://github.com/GRETSI-2025/GRETSI25_Label-Or_Sigcor_Un-paquet-Python-
 
 - Rapporteur(s) : Benjamin PERRET, Jiahui Wei
 - Papier associé : _"Sigcor - un paquet Python pour le calcul de seuils de coefficients de corrélation significatifs pour des petits et grands échantillons"_ - Guillaume BECQ
-- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/27) | 📝 [_Voir le rapport_](rapports/Rapport_issue_27)
+- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/27) | 📝 [_Voir le rapport_](https://github.com/GRETSI-2025/Label-Reproductible/blob/main/rapports/Rapport_issue_27/README.md)
 
 <hr>
 
@@ -69,7 +69,7 @@ Fork : https://github.com/GRETSI-2025/GRETSI25_Label-Or_Correction-matricielle-d
 
 - Rapporteur(s) : Rémi COGRANNE
 - Papier associé : _"Correction matricielle de l'indétermination d'échelle pour l'optimisation alternée"_ - Massyl MOUDOUD, Céline MEILLIER, Vincent MAZET
-- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/35) | 📝 [_Voir le rapport_](rapports/Rapport_issue_35)
+- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/35) | 📝 [_Voir le rapport_](https://github.com/GRETSI-2025/Label-Reproductible/blob/main/rapports/Rapport_issue_35/README.md)
 
 <hr>
 
@@ -77,7 +77,7 @@ Fork : https://github.com/GRETSI-2025/GRETSI25_Label-Or_Reconstruction-dimages-e
 
 - Rapporteur(s) : Van-Tien PHAM
 - Papier associé : _"Reconstruction d’images en tomographie photoacoustique avec régularisation combinée variation totale - Cauchy"_ - Trung-Thai DO, Caroline CHAUX, Paul ESCANDE, Jérôme GÂTEAU
-- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/36) | 📝 [_Voir le rapport_](rapports/Rapport_issue_36)
+- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/36) | 📝 [_Voir le rapport_](https://github.com/GRETSI-2025/Label-Reproductible/blob/main/rapports/Rapport_issue_36/README.md)
 
 ## Codes labelisés "Argent"
 
@@ -89,7 +89,7 @@ Fork : https://github.com/GRETSI-2025/GRETSI25_Label-Argent_Radar-OFDM-ou-radar-
 
 - Rapporteur(s) : Jean-Baptiste COURBOT
 - Papier associé : _"Radar OFDM ou radar à bruit : le cas du DVB-T2"_ - Jean-Yves BAUDAIS
-- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/4) | 📝 [_Voir le rapport_](rapports/Rapport_issue_04)
+- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/4) | 📝 [_Voir le rapport_](https://github.com/GRETSI-2025/Label-Reproductible/blob/main/rapports/Rapport_issue_04/README.md)
 
 <hr>
 
@@ -97,7 +97,7 @@ Fork : https://github.com/GRETSI-2025/GRETSI25_Label-Argent_Difference-polarimet
 
 - Rapporteur(s) : Patrick BARD
 - Papier associé : _"Différence polarimétrique et angulaire d’image appliqué à imagerie à haut contraste des environnements circumstellaire"_ - Vincent TARDIEUX, Laurence DENNEULIN
-- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/7) | 📝 [_Voir le rapport_](rapports/Rapport_issue_07)
+- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/7) | 📝 [_Voir le rapport_](https://github.com/GRETSI-2025/Label-Reproductible/blob/main/rapports/Rapport_issue_07/README.md)
 
 <hr>
 
@@ -105,7 +105,7 @@ Fork : https://github.com/GRETSI-2025/GRETSI25_Label-Argent_Frugalite-en-teledet
 
 - Rapporteur(s) : Luc VEDRENNE
 - Papier associé : _"Frugalité en télédétection : évaluer la performance et la consommation énergétique en détection de changements d’images PolSAR"_ - Matthieu VERLYNDE, Ammar MIAN, Yajing YAN
-- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/8) | 📝 [_Voir le rapport_](rapports/Rapport_issue_08)
+- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/8) | 📝 [_Voir le rapport_](https://github.com/GRETSI-2025/Label-Reproductible/blob/main/rapports/Rapport_issue_08/README.md)
 
 <hr>
 
@@ -113,7 +113,7 @@ Fork : https://github.com/GRETSI-2025/GRETSI25_Label-Argent_SIMuLDiTex_Un-modele
 
 - Rapporteur(s) : Louise FRIOT GIROUX
 - Papier associé : _"SIMuLDiTex : Un modèle de diffusion léger, mono-image et multi-échelle pour la synthèse de texture."_ - Pierrick CHATILLON, Julien RABIN, David TSCHUMPERLÉ
-- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/9) | 📝 [_Voir le rapport_](rapports/Rapport_issue_09)
+- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/9) | 📝 [_Voir le rapport_](https://github.com/GRETSI-2025/Label-Reproductible/blob/main/rapports/Rapport_issue_09/README.md)
 
 <hr>
 
@@ -121,7 +121,7 @@ Fork : https://github.com/GRETSI-2025/GRETSI25_Label-Argent_Diversification-des-
 
 - Rapporteur(s) : Raphaël LE BIDAN
 - Papier associé : _"Diversification des Données pour l’Identification d’Empreinte RF"_ - Alice CHILLET, Robin GERZAGUET, Karol DESNOS,  Paul BAZERQUE, Erwan NOGUES, Matthieu GAUTIER
-- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/11) | 📝 [_Voir le rapport_](rapports/Rapport_issue_11)
+- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/11) | 📝 [_Voir le rapport_](https://github.com/GRETSI-2025/Label-Reproductible/blob/main/rapports/Rapport_issue_11/README.md)
 
 <hr>
 
@@ -129,7 +129,7 @@ Fork : https://github.com/GRETSI-2025/GRETSI25_Label-Argent_Auto-encodeurs-atomi
 
 - Rapporteur(s) : Charles TRUONG
 - Papier associé : _"Auto-encodeurs atomiques parcimonie-max et application aux problèmes inverses"_ - Ali JOUNDI, Yann TRAONMILIN, Alasdair NEWSON
-- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/13) | 📝 [_Voir le rapport_](rapports/Rapport_issue_13)
+- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/13) | 📝 [_Voir le rapport_](https://github.com/GRETSI-2025/Label-Reproductible/blob/main/rapports/Rapport_issue_13/README.md)
 
 <hr>
 
@@ -137,7 +137,7 @@ Fork : https://github.com/GRETSI-2025/GRETSI25_Label-Argent_Un-algorithme-de-poi
 
 - Rapporteur(s) : Mathieu LEONARDON
 - Papier associé : _"Un algorithme de point fixe pour calculer des barycentres robustes entre mesures"_ - Eloi TANGUY, Julie DELON, Nathaël GOZLAN
-- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/14) | 📝 [_Voir le rapport_](rapports/Rapport_issue_14)
+- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/14) | 📝 [_Voir le rapport_](https://github.com/GRETSI-2025/Label-Reproductible/blob/main/rapports/Rapport_issue_14/README.md)
 
 <hr>
 
@@ -145,7 +145,7 @@ Fork : https://github.com/GRETSI-2025/GRETSI25_Label-Argent_Raining-Words_Les-mo
 
 - Rapporteur(s) : Félix RIEDEL
 - Papier associé : _"Raining Words - Les modèles d'ASR peuvent-ils retranscrire les sous-genres de Metal ?"_ - Bastien PASDELOUP, Axel MARMORET
-- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/15) | 📝 [_Voir le rapport_](rapports/Rapport_issue_15)
+- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/15) | 📝 [_Voir le rapport_](https://github.com/GRETSI-2025/Label-Reproductible/blob/main/rapports/Rapport_issue_15/README.md)
 
 <hr>
 
@@ -153,7 +153,7 @@ Fork : https://github.com/GRETSI-2025/GRETSI25_Label-Argent_Deconvolution-Dynami
 
 - Rapporteur(s) : Quentin BAMMEY
 - Papier associé : _"Déconvolution Dynamique par Descente de Gradient Préconditionnée"_ - Joseph GABET, Maxime FERREIRA DA COSTA, Charles SOUSSEN
-- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/16) | 📝 [_Voir le rapport_](rapports/Rapport_issue_16)
+- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/16) | 📝 [_Voir le rapport_](https://github.com/GRETSI-2025/Label-Reproductible/blob/main/rapports/Rapport_issue_16/README.md)
 
 <hr>
 
@@ -161,7 +161,7 @@ Fork : https://github.com/GRETSI-2025/GRETSI25_Label-Argent_Degree-corrected-blo
 
 - Rapporteur(s) : Laurence DENNEULIN
 - Papier associé : _"Degree-corrected block model : une nouvelle approche et une initialisation efficace pour l’inférence"_ - Alexandra DACHE, Nicolas GILLIS, Arnaud VANDAELE
-- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/17) | 📝 [_Voir le rapport_](rapports/Rapport_issue_17)
+- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/17) | 📝 [_Voir le rapport_](https://github.com/GRETSI-2025/Label-Reproductible/blob/main/rapports/Rapport_issue_17/README.md)
 
 <hr>
 
@@ -169,7 +169,7 @@ Fork : https://github.com/GRETSI-2025/GRETSI25_Label-Argent_Transformee-de-Kravc
 
 - Rapporteur(s) : Mathilde DUPOUY
 - Papier associé : _"Transformée de Kravchuk réalignée, implémentation efficace et illustration sur signaux élémentaires et réels"_ - Barbara PASCAL, Julien FLAMANT, Rémi BARDENET
-- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/24) | 📝 [_Voir le rapport_](rapports/Rapport_issue_24)
+- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/24) | 📝 [_Voir le rapport_](https://github.com/GRETSI-2025/Label-Reproductible/blob/main/rapports/Rapport_issue_24/README.md)
 
 <hr>
 
@@ -177,7 +177,7 @@ Fork : https://github.com/GRETSI-2025/GRETSI25_Label-Argent_Weighted-tensorized-
 
 - Rapporteur(s) : Marc DONIAS
 - Papier associé : _"Weighted tensorized fractional Brownian textures"_ - Céline ESSER, Claire LAUNAY, Laurent LOOSVELDT, Béatrice VEDEL
-- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/25) | 📝 [_Voir le rapport_](rapports/Rapport_issue_25)
+- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/25) | 📝 [_Voir le rapport_](https://github.com/GRETSI-2025/Label-Reproductible/blob/main/rapports/Rapport_issue_25/README.md)
 
 <hr>
 
@@ -185,7 +185,7 @@ Fork : https://github.com/GRETSI-2025/GRETSI25_Label-Argent_Comment-specialiser-
 
 - Rapporteur(s) : Quentin SAINT-CHRISTOPHE, Guillaume BECQ
 - Papier associé : _"Comment spécialiser DINOv2 pour l’astronomie ?"_ - Matthieu LE LAIN, Sébastien LEFÈVRE
-- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/28) | 📝 [_Voir le rapport_](rapports/Rapport_issue_28)
+- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/28) | 📝 [_Voir le rapport_](https://github.com/GRETSI-2025/Label-Reproductible/blob/main/rapports/Rapport_issue_28/README.md)
 
 <hr>
 
@@ -193,7 +193,7 @@ Fork : https://github.com/GRETSI-2025/GRETSI25_Label-Argent_Algorithme-EM-stocha
 
 - Rapporteur(s) : David JIA
 - Papier associé : _"Algorithme EM stochastique pour modèles d’espace d’états linéaires en bruits impulsifs : application à la radio interférométrie"_ - Nawel ARAB, Isabelle VIN, Mohammed Nabil EL KORSO, Pascal LARZABAL
-- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/29) | 📝 [_Voir le rapport_](rapports/Rapport_issue_29)
+- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/29) | 📝 [_Voir le rapport_](https://github.com/GRETSI-2025/Label-Reproductible/blob/main/rapports/Rapport_issue_29/README.md)
 
 <hr>
 
@@ -201,7 +201,7 @@ Fork : https://github.com/GRETSI-2025/GRETSI25_Label-Argent_Prediction-des-insta
 
 - Rapporteur(s) : Nicolas AUDEBERT
 - Papier associé : _"Prédiction des instants de changement de percept dans un modèle de perception mutlistable"_ - Massyl MOUDOUD, Ronald PHLYPO
-- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/32) | 📝 [_Voir le rapport_](rapports/Rapport_issue_32)
+- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/32) | 📝 [_Voir le rapport_](https://github.com/GRETSI-2025/Label-Reproductible/blob/main/rapports/Rapport_issue_32/README.md)
 
 <hr>
 
@@ -209,4 +209,4 @@ Fork : https://github.com/GRETSI-2025/GRETSI25_Label-Argent_Nouvelles-formules-d
 
 - Rapporteur(s) : Jianhua WANG
 - Papier associé : _"Nouvelles formules de synthèse de la transformée de Fourier à court terme avec une fenêtre d’analyse modifiée"_ - Dominique FOURER, François AUGER, Eric CHASSANDE-MOTTIN, Patrick FLANDRIN
-- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/33) | 📝 [_Voir le rapport_](rapports/Rapport_issue_33)
+- ⚙️ [_Voir l'issue_](https://github.com/GRETSI-2025/Label-Reproductible/issues/33) | 📝 [_Voir le rapport_](https://github.com/GRETSI-2025/Label-Reproductible/blob/main/rapports/Rapport_issue_33/README.md)
