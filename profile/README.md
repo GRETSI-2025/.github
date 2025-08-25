@@ -9,7 +9,14 @@ Les auteurs des papiers de la conférence peuvent soumettre le code associé à 
 - [**Label Or**](#codes-labelisés-or) : Les résultats du papier associé ont été reproduits à l'identique avec toutes les données accessibles.
 - [**Label Argent**](#codes-labelisés-argent) : Les résultats du papier associé ont été reproduits avec des différences négligeables et/ou des données partiellement disponibles.
 
-Les listes des codes lauréats de ces deux catégories pour l'édition 2025 sont données ci-dessous.
+Les listes des **codes lauréats** de ces deux catégories pour l'édition 2025 sont données ci-dessous.
+
+## Processus
+
+Le lien entre les auteurs et les rappporteurs est effectué via le dépôt Git https://github.com/GRETSI-2025/Label-Reproductible dans lequel se trouvent notamment :
+
+- [les issues](https://github.com/GRETSI-2025/Label-Reproductible/issues?q=is:issue) qui permettent aux auteurs de soumettre leur code et aux relecteurs de poser leurs questions
+- [les rapports](https://github.com/GRETSI-2025/Label-Reproductible/tree/main/rapports) établis par les rapporteurs tout au long du processus releture
 
 ## Codes labelisés "Or"
 
