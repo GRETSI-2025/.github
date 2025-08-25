@@ -4,7 +4,7 @@ Le GRETSI 2025 est la première édition de cette conférence à proposer le **L
 
 ## Principe
 
-Les auteurs des papiers de la conférence peuvent soumettre le code associé à leur article de conférence. Si lre rapporteur qui lui est affecté est en mesure de reproduire les résultats (figures et tables) du papier dans le temps imparti, le code se voit alors décerné un label. Il en existe deux :
+Les auteurs des papiers de la conférence peuvent soumettre le code associé à leur article de conférence. Si le rapporteur qui lui est affecté est en mesure de reproduire les résultats (figures et tables) du papier dans le temps imparti, le code se voit alors décerné un label. Il en existe deux :
 
 - [**Label Or**](#codes-labelisés-or) : Les résultats du papier associé ont été reproduits à l'identique avec toutes les données accessibles.
 - [**Label Argent**](#codes-labelisés-argent) : Les résultats du papier associé ont été reproduits avec des différences négligeables et/ou des données partiellement disponibles.
